@@ -1,0 +1,14 @@
+{
+	"name": "timestamp",
+	"version": "1.0.0",
+	"description": "Timestamp microservice",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.12.4"
+	},
+	"license": "MIT",
+	"author": "kulmarcin"
+}
